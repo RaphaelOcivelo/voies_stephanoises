@@ -4,8 +4,8 @@
     {
       "type": "Feature",
        "properties": {
-        "id": "",
-        "line": 6,
+        "id": "Centre_ville_de_Roche_la_Moliere-Bd_Louis_Braille",
+        "line": 12,
         "name": "Centre-ville de Roche la Moliere -> Bd Louis Braille",
         "status": "done",
         "type": "voie-verte",
@@ -128,8 +128,8 @@
   {
     "type": "Feature",
      "properties": {
-      "id": "",
-      "line": 6,
+      "id": "Bd_Louis_Braille-Firminy",
+      "line": 12,
       "name": "Bd Louis Braille -> Firminy",
       "status": "planned",
       "type": "voie-verte",
