@@ -444,7 +444,50 @@
         ],
         "type": "LineString"
       }
-    },
+      {
+        "type": "Feature",
+         "properties": {
+          "id": "Chemin_Josephe_boudon_Le_Chambon_Feugerolles",
+          "line": 14,
+          "name": "Chemin Josphe Boudon Le Chambon Feugerolles",
+          "status": "done",
+          "type": "voie-verte",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.317846676577545,
+              45.39625630518927
+            ],
+            [
+              4.317074288578709,
+              45.39624080888649
+            ],
+            [
+              4.315992945380458,
+              45.396194319952684
+            ],
+            [
+              4.314889533953732,
+              45.39637252732524
+            ],
+            [
+              4.314150248297608,
+              45.39655848224527
+            ],
+            [
+              4.311568265558549,
+              45.396209816268225
+            ],
+            [
+              4.310111762474662,
+              45.39604710474259
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
     {
       "type": "Feature",
        "properties": {
@@ -539,7 +582,7 @@
         "id": "Firminy-Unieux",
         "line": 14,
         "name": "Firminy -> Unieux",
-        "status": "unknown",
+        "status": "planned",
         "type": "inconnu",
         "link": ""
       },
