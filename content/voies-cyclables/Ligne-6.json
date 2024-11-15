@@ -297,11 +297,6 @@
                         },
                         "geometry": {
                           "coordinates": [
-                            {
-                                "type": "Feature",
-                                "properties": {},
-                                "geometry": {
-                                  "coordinates": [
                                     [
                                       4.397865632757458,
                                       45.4402247552504
@@ -350,11 +345,6 @@
                                 },
                                 "geometry": {
                                   "coordinates": [
-                                    {
-                                        "type": "Feature",
-                                        "properties": {},
-                                        "geometry": {
-                                          "coordinates": [
                                             [
                                               4.397867673706827,
                                               45.445436062482315
@@ -428,4 +418,4 @@
                                               }
                                             }
                                           ]
-                                        }
+                                          }                              
