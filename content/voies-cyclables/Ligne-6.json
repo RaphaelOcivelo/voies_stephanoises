@@ -1,7 +1,103 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
+      {
+        "type": "Feature",
+         "properties": {
+          "id": "Rue_de_Terrenoire",
+          "line": 6,
+          "name": "Rue de Terrenoire",
+          "status": "unknown",
+          "type": "inconnu",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.417248468889511,
+              45.43414619741023
+            ],
+            [
+              4.416340690172973,
+              45.433860966416404
+            ],
+            [
+              4.415053541246834,
+              45.43261544085266
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+         "properties": {
+          "id": "Rue_Pierre_Loti",
+          "line": 6,
+          "name": "Rue Pierre Loti",
+          "status": "done",
+          "type": "bilaterale",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.415026443373989,
+              45.43264396464636
+            ],
+            [
+              4.416083260387779,
+              45.43188332521311
+            ],
+            [
+              4.414863856141494,
+              45.42971544658576
+            ],
+            [
+              4.414064468914063,
+              45.428907224912734
+            ],
+            [
+              4.415353307515204,
+              45.428553049363956
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+         "properties": {
+          "id": "Bd_de_La_Palle",
+          "line": 6,
+          "name": "Bd de La Palle",
+          "status": "unknown",
+          "type": "bidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.4153397578265015,
+              45.42854588294321
+            ],
+            [
+              4.416416898243796,
+              45.428132256491864
+            ],
+            [
+              4.416443996116556,
+              45.42795159111364
+            ],
+            [
+              4.416674328029018,
+              45.427899293133294
+            ]
+          ],
+          "type": "LineString"
+        }
+      },      
+      {
             "type": "Feature",
              "properties": {
               "id": "Alexandre_Fraissinette",
