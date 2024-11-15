@@ -332,7 +332,7 @@
           "line": 1,
           "name": "Carnot -> Cité du Design",
           "status": "unknown",
-          "type": "unconu",
+          "type": "inconu",
           "link": ""
         },
         "geometry": {
