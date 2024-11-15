@@ -332,7 +332,7 @@
           "line": 1,
           "name": "Carnot -> Cité du Design",
           "status": "unknown",
-          "type": "inconu",
+          "type": "aucun",
           "link": ""
         },
         "geometry": {
@@ -382,9 +382,9 @@
          "properties": {
           "id": "Haut_de_Bergson",
           "line": 1,
-          "name": "Haut_de_Bergson",
+          "name": "Haut de Bergson",
           "status": "unknown",
-          "type": "inconu",
+          "type": "aucun",
           "link": ""
         },
         "geometry": {
