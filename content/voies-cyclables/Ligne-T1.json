@@ -1,13 +1,13 @@
 {
   "type": "FeatureCollection",
   "features": [
-{
+ {
         "type": "Feature",
          "properties": {
           "id": "Rue_Ambroise_Paré",
           "line": 1,
           "name": "Rue Ambroise Paré",
-          "status": "Wip",
+          "status": "wip",
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -39,15 +39,15 @@
           ]
         ],
         "type": "LineString"
-      }
-},
+       }
+ },
 {
         "type": "Feature",
          "properties": {
           "id": "Rue_Gabriel_Péri",
           "line": 1,
           "name": "Rue Gabriel Péri",
-          "status": "Wip",
+          "status": "wip",
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -72,8 +72,8 @@
         ],
         "type": "LineString"
       }
-    },
-{
+ },
+ {
         "type": "Feature",
          "properties": {
           "id": "Place_Bellevue",
@@ -99,9 +99,9 @@
           ]
         ],
         "type": "LineString"
-      }
-    },
-{
+       }
+  },
+ { 
         "type": "Feature",
          "properties": {
           "id": "Rue_11_novembre",
