@@ -7,7 +7,7 @@
           "id": "Solaure-La_Ricamarie",
           "line": 14,
           "name": "Solaure -> La Ricamarie",
-          "status": "unknown",
+          "status": "postponed",
           "type": "inconnu",
           "link": ""
         },
@@ -407,7 +407,7 @@
         "id": "Rue_du_Moulin_Le_Chambon_Feugerolles",
         "line": 14,
         "name": "Varriante rue du Moulin Le Chambon Feugerolles",
-        "status": "unknown",
+        "status": "postponed",
         "type": "inconnu",
         "link": ""
       },
@@ -583,23 +583,19 @@
         "id": "Firminy-Unieux",
         "line": 14,
         "name": "Firminy -> Unieux",
-        "status": "planned",
+        "status": "postponed",
         "type": "inconnu",
         "link": ""
       },
       "geometry": {
         "coordinates": [
           [
-              4.39210607881509,
-              45.41314445350733
+            4.272483975598675,
+            45.39190116517554
             ],
             [
-              4.39352078337248,
-              45.41638275633713
-            ],
-            [
-              4.393751441724277,
-              45.41660943058096
+            4.2633973441545265,
+            45.394731076734615
             ]
         ],
         "type": "LineString"
@@ -611,7 +607,7 @@
         "id": "Unieux",
         "line": 14,
         "name": "Unieux",
-        "status": "unknown",
+        "status": "postponed",
         "type": "inconnu",
         "link": ""
       },
