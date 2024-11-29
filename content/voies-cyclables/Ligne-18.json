@@ -82,9 +82,9 @@
                  "properties": {
                   "id": "Long_du_Furan",
                   "line": 18,
-                  "name": "M 1082",
-                  "status": "Long du Furan",
-                  "type": "postponed",
+                  "name": "Long du Furan",
+                  "status": "postponed",
+                  "type": "inconnu",
                   "link": ""
                 },
                 "geometry": {
@@ -138,9 +138,9 @@
                      "properties": {
                       "id": "Long_du_Furan_2",
                       "line": 18,
-                      "name": "M 1082",
-                      "status": "Long du Furan 2",
-                      "type": "postponed",
+                      "name": "Long du Furan 2",
+                      "status": "postponed",
+                      "type": "inconnu",
                       "link": ""
                     },
                     "geometry": {
@@ -194,9 +194,9 @@
                          "properties": {
                           "id": "Andrézieux",
                           "line": 18,
-                          "name": "M 1082",
-                          "status": "Andrézieux",
-                          "type": "postponed",
+                          "name": "Andrézieux",
+                          "status": "postponed",
+                          "type": "inconnu",
                           "link": ""
                         },
                         "geometry": {
