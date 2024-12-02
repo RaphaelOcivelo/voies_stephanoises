@@ -107,8 +107,8 @@
                       "id": "Av_de_l'Europe",
                       "line": 19,
                       "name": "Av de l'Europe",
-                      "status": "bidirectionnelle",
-                      "type": "wip",
+                      "status": "wip",
+                      "type": "bidirectionnelle",
                       "link": ""
                     },
                     "geometry": {

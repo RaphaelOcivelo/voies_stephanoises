@@ -1,46 +1,27 @@
 {
     "type": "FeatureCollection",
     "features": [
-      {
-        "type": "Feature",
-         "properties": {
-          "id": "Rue_Arcole",
-          "line": 13,
-          "name": "Rue d'Arcole",
-          "status": "unknown",
-          "type": "inconnu",
-          "link": ""
-        },
-        "geometry": {
-          "coordinates": [
-        [
-            4.386768174377579,
-            45.440694996526474
-          ],
-          [
-            4.380094277449132,
-            45.43975441349656
-          ],
-          [
-            4.37921336135517,
-            45.43894146838838
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
+     
                {
             "type": "Feature",
              "properties": {
               "id": "Bd_Maréchal_Franchet",
               "line": 13,
               "name": "Bd Maréchal Franchet",
-              "status": "unknown",
+              "status": "postponed",
               "type": "inconnu",
               "link": ""
             },
             "geometry": {
               "coordinates": [
+                [
+                  4.378628395030006,
+                  45.439432921549184
+                ],
+                [
+                  4.379064316459221,
+                  45.439079779774914
+                ],
                 [
                     4.379248634010537,
                     45.43893474991697
@@ -203,7 +184,7 @@
                       "id": "Roche_la_Molière",
                       "line": 13,
                       "name": "Roche la Molière",
-                      "status": "unknown",
+                      "status": "postponed",
                       "type": "inconnu",
                       "link": ""
                     },
@@ -279,7 +260,7 @@
                           "id": "Roche_la_Molière_route_de_St_Victor",
                           "line": 13,
                           "name": "Roche la Molière Route de St Victor",
-                          "status": "unknown",
+                          "status": "postponed",
                           "type": "inconnu",
                           "link": ""
                         },
@@ -339,7 +320,7 @@
                                   "id": "Roche_la_Molière_route_de_St_Victor 3",
                                   "line": 13,
                                   "name": "Roche la Molière Route de St Victor 3",
-                                  "status": "unknown",
+                                  "status": "postponed",
                                   "type": "inconnu",
                                   "link": ""
                                 },
@@ -507,7 +488,7 @@
                                               "id": "St_Victor_route_de_St_Victor 3",
                                               "line": 13,
                                               "name": "St Victor Route de St Victor 3",
-                                              "status": "unknown",
+                                              "status": "postponed",
                                               "type": "inconnu",
                                               "link": ""
                                             },
