@@ -79,7 +79,7 @@
           "id": "Place_Bellevue",
           "line": 1,
           "name": "Place Bellevue",
-          "status": "unknown",
+          "status": "postponed",
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -187,7 +187,7 @@
           "id": "Rue_Michelet",
           "line": 1,
           "name": "Rue Michelet",
-          "status": "unknown",
+          "status": "postponed",
           "type": "bilaterale",
           "link": ""
         },
@@ -239,7 +239,7 @@
           "id": "Rue_du_Grand_Moulin",
           "line": 1,
           "name": "Rue du Grand Moulin",
-          "status": "unknown",
+          "status": "postponed",
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -275,8 +275,8 @@
           "id": "Centre_ville",
           "line": 1,
           "name": "Centre ville",
-          "status": "unknown",
-          "type": "aucun",
+          "status": "postponed",
+          "type": "inconnu",
           "link": ""
         },
         "geometry": {
@@ -331,8 +331,8 @@
           "id": "Carnot->Cité_du_Design",
           "line": 1,
           "name": "Carnot -> Cité du Design",
-          "status": "unknown",
-          "type": "aucun",
+          "status": "planned",
+          "type": "inconnu",
           "link": ""
         },
         "geometry": {
@@ -383,8 +383,8 @@
           "id": "Haut_de_Bergson",
           "line": 1,
           "name": "Haut de Bergson",
-          "status": "unknown",
-          "type": "aucun",
+          "status": "planned",
+          "type": "inconnu",
           "link": ""
         },
         "geometry": {
@@ -571,7 +571,7 @@
           "id": "Av_Pierre_Mendes_France",
           "line": 1,
           "name": "Av Pierre Mendes France",
-          "status": "unknown",
+          "status": "postponed",
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -598,12 +598,48 @@
             45.476319423322906
           ],
           [
-            4.363324054520035,
-            45.479822448689475
+            4.363379818198553,
+            45.47939985602204
           ]
         ],
         "type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+       "properties": {
+        "id": "Av Albert Raimond",
+        "line": 1,
+        "name": "Av Albert Raimond",
+        "status": "postponed",
+        "type": "bidirectionnelle",
+        "link": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.363379818198553,
+            45.47939985602204
+          ],
+          [
+            4.3617585806090915,
+            45.47957474130874
+          ],
+          [
+            4.359561755708853,
+            45.47952093050938
+          ],
+          [
+            4.3560123006281515,
+            45.47985052085008
+          ],
+          [
+            4.355241574463179,
+            45.4799180292718
+          ]
+      ],
+      "type": "LineString"
     }
+  }
   ]
 }
