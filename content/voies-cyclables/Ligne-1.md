@@ -12,6 +12,7 @@ La traversée à vélo de l’axe Nord – Sud de Saint-Etienne représente prob
 La réalisation complète de l’axe vélo Nord – Sud de la traversée de Saint-Etienne devrait être la priorité des aménagements cyclables sur le territoire de Loire Sud, dans le but d’augmenter significativement la part modale à vélo.
 
 ![Illustration AI](https://github.com/Aesran/voies_stephanoises/blob/main/assets/Illustration_ligne-1.png)
+![Illustration_AI_Parcours](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/Illustration_ligne-1.png)
 
 
 ### Prochaines réalisations 
