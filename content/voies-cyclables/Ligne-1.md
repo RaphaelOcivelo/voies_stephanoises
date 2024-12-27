@@ -11,6 +11,8 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 La traversée à vélo de l’axe Nord – Sud de Saint-Etienne représente probablement l’axe cyclable principal de l’ensemble de la métropole. Le sens Nord – Sud s’apparente à la colonne vertébrale sur laquelle la ville de Saint-Etienne s’est construite, générant le plus de déplacement. La ligne de tramway historique suit cet axe.
 La réalisation complète de l’axe vélo Nord – Sud de la traversée de Saint-Etienne devrait être la priorité des aménagements cyclables sur le territoire de Loire Sud, dans le but d’augmenter significativement la part modale à vélo.
 
+![Illustration AI](https://ibb.co/ZG4CGH7)
+
 
 ### Prochaines réalisations 
 Rue Pierre Mendes France – accès vélo au CHU Nord
