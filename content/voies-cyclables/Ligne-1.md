@@ -4,16 +4,12 @@ line: 1
 from: Centre-Ville
 to: Solaure
 description: Axe vélo Nord – Sud de la traversée de Saint Etienne. Elle suit la ligne T1 du tram et parcours la ville du nord-ouest depuis l'hopital nord jusqu'à solaure au sud-est.
-cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
+cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L1-Axe-velo-nord-sud.png
 ---
 
 ## L'état actuel
 La traversée à vélo de l’axe Nord – Sud de Saint-Etienne représente probablement l’axe cyclable principal de l’ensemble de la métropole. Le sens Nord – Sud s’apparente à la colonne vertébrale sur laquelle la ville de Saint-Etienne s’est construite, générant le plus de déplacement. La ligne de tramway historique suit cet axe.
 La réalisation complète de l’axe vélo Nord – Sud de la traversée de Saint-Etienne devrait être la priorité des aménagements cyclables sur le territoire de Loire Sud, dans le but d’augmenter significativement la part modale à vélo.
-
-![Illustration AI](https://github.com/Aesran/voies_stephanoises/blob/main/assets/Illustration_ligne-1.png)
-![Illustration_AI_Parcours](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/Illustration_ligne-1.png)
-![Illustration_AI_Parcours](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/test.png)
 
 
 ### Prochaines réalisations 

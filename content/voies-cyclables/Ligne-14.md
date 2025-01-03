@@ -1,10 +1,10 @@
 ---
 name: Voie Stéphanoise 14
 line: 14
-from: Roche La Molieres
-to: Le Pertuise
+from: Saint-Etienne
+to: Le Pertuiset
 description: Axe vélo de la vallée de l’ONDAINE – Véloroute V72 – Voie verte des Confluences
-cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
+cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L14-V72-voie-des-confluence-Ondaine-ZAC-Bargette.png
 ---
 ## Description
 Tracer de la voie des confluences permetant la connexions avec la voie verte en direction de Roche la Molière, en direction de Dunières et le site UNESCO du Corbusier.
