@@ -1,9 +1,9 @@
 ---
 name: Voie Stéphanoise 12
 line: 12
-from: Centre ville
+from: Centre ville de Saint-Etienne
 to: St Victor Sur Loire
-description: Voie prémétant d'aller jusqu'au bors de la Loire.
+description: Voie permettant d’aller de Saint-Étienne jusqu’à la station balnéaire de Saint-Victor sur Loire.
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
 ## Description
