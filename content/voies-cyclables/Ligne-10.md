@@ -18,6 +18,8 @@ Une valorisation patrimoniale de la 1er ligne de chemin de fer d’Europe contin
 
 Le tracé de la voie verte du Furan suivrait la rivière Furan, en grande partie sur la plateforme de la première ligne de chemin de fer du 1827 entre Saint-Etienne et les bords de Loire à Andrézieux-Bouthéon. Cette voie verte du furan fera 16 km entre le CHU Nord de Saint-Etienne et les bords de Loire.
 
+## Etat actuel
+
 ## Projet
 Un groupement d’associations nommée ECLISSE commence à s’organiser pour préparer les festivités du bicentenaire de cette ligne historique. Elles désirent également que le bicentenaire soit l’occasion de bâtir une infrastructure durable autour ou sur son parcours. (une musée du train, des panneaux d’informations, des chemins de randonnée, et pourquoi par une voie verte…).
 
@@ -43,3 +45,8 @@ Une voie verte de 2 km valorisant déjà cette ligne de chemin de fer de 1827, l
 
 ![Voie verte du furan : Mur de soutènement](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L10-Voie-verte-Furan-vestige-ferrovaire-de-1827.jpeg)
 ![Voie verte du furan : Double mur de soutènement](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L10-Voie-verte-Furan-Vestige-ferroviaire-de-1827.jpeg)
+
+## Points d’améliorations
+
+
+## Archive des réalisations

@@ -7,13 +7,16 @@ description: Le grand contournement cyclable au Nord de Saint-Etienne
 cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/hero.jpeg
 ---
 
-## L'état actuel
+## Description
 
 
-
-### Prochaines réalisations 
-
-### Points d’améliorations de l’axe vélo Nord – Sud de Saint-Etienne
+## Etat actuel
 
 
-### Archive des réalisations
+## Prochaines réalisations 
+
+
+## Points d’améliorations
+
+
+## Archive des réalisations
