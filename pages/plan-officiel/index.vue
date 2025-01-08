@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <img
-      src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-Schéma-structurant-SEM.png"
+      src=https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-Schéma-structurant-SEM.png
       class="object-contain w-full h-screen"
       :alt="`plan officiel des ${getRevName()}`"
     >
