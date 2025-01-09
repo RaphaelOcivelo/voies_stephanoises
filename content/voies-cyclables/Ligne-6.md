@@ -21,7 +21,7 @@ La piste cyclable passe le long du tram et du stade Geoffroy-Guichard et en dire
  ![Vue de la voie verte au niveau du Technopole](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L6-Voie-verte-de-saint-etienne-technopole-zenith.png)
 Un deuxième tracé en voie verte reprend le parcours de la première ligne de chemin de fer. Un chemin piéton a été aménagé pour permettre de dissocier les flux. Des tables et bancs ont été installés.
 ![Vue de la voie verte du soleil](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L6-Voie-verte-de-Saint-Etienne-quartier-soleil.png)
-La suite part en direction du quartier du soleil et s'arrête au niveau de la rue de la Talaudiere. Un accès est possible le long de la déchèterie par la rue Gerorge Popidou.
+La suite part en direction du quartier du soleil et s'arrête au niveau de la rue de la Talaudiere. Un accès est possible le long de la déchèterie par la rue Georges Pompidou.
 
 
 
@@ -33,6 +33,7 @@ L’EPASE réalisera la partie en direction du centre commercial  STEEL
 
 ## Archive des réalisations
 2019 crération de la voie le long de la troisieme ligne de tram
+
 2020 réalisation de la voie verte des mémoires ferroviaires
 
 
