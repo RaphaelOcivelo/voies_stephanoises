@@ -1,7 +1,7 @@
 ---
 title: Méthodologie
-description: Réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis.
-imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
+description: Réponses aux questions fréquentes sur les données et la méthodologie de l'observatoire des aménagements cyclables.
+imageUrl: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-Logo-obs-des-amenagements.png
 ---
 
 *Pourquoi ce tronçon est marqué « terminé » alors qu’il n’y a eu aucuns travaux ?  
@@ -23,7 +23,7 @@ Lorsqu'un tronçon présente une différence d'aménagement cyclable entre les d
 
 Enfin, si une des typologie représente moins de 0.5% du linéaire total, il est masqué de l'écran des statistiques pour éviter d'afficher un pourcentage arrondi de 0% qui laisserait croire que cette typologie n'est pas présente.
 
-## En travaux sur le terrain, mais pas sur Cyclopolis ?
+## En travaux sur le terrain, mais pas sur l'observatoire ?
 Vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de l'observatoire. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Voies Stéphanoise, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler sur [ce lien](contact@ocivelo.fr).
 
 
@@ -44,9 +44,9 @@ Pour obtenir les chiffres lisibles sur le tableau de bord de la page d’accueil
 Nous nous sommes efforcés d’être le plus précis possible sur le positionnement de l’aménagement cyclable dans nos cartes interactives. Cependant, certains tronçons ont été dessinés à un moment où nous ignorions le côté d’insertion de la piste sur la rue. Ainsi, en zoomant beaucoup sur une rue en particulier, il est possible de retrouver des incohérences. C’est tout à fait normal, car la carte interactive a pour objectif principal de repérer les rues concernées par l’aménagement et pas son insertion précise. Nous travaillerons cependant à une amélioration de cette précision de manière à pouvoir intégrer les informations géographiques de la plateforme au sein de la communauté d’OpenStreetMap.
 
 ## Réseau 2030
-La plateforme de l'observatoire a pour objectif de surveiller la bonne réalisation du réseau cyclable des Voies Stéphanoise sur le mandat en cours de la Métropole de Saint-Etienne. Ce mandat se termine en 2026. C’est sur ce projet précis que porte la plateforme obsevatoire lancée à l’automne 2024.
+La plateforme de l'observatoire a pour objectif de surveiller la bonne réalisation du réseau cyclable des Voies Stéphanoise sur le mandat en cours de la Métropole de Saint-Etienne. Ce mandat se termine en 2026. C’est sur ce projet précis que porte la plateforme obsevatoire lancée en 2025.
 
-A l’occasion des campagnes pour les élections métropolitaines de 2026, la plateforme de l'observatoire des polytique cyclable évoluera pour comparer les programmes des différentes formations politiques candidates au sujet du réseau des Voies Stéphanoise à l’horizon 2032.
+A l’occasion des campagnes pour les élections métropolitaines de 2026, la plateforme de l'observatoire des aménagements cyclables évoluera pour comparer les programmes des différentes formations politiques candidates au sujet du réseau des Voies Stéphanoise à l’horizon 2029.
 
 ## Réutilisation du contenu du site
-Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Observatoire des politique cyclable » (avec lien vers <a href="https://voies-stephanoises.netlify.app/" Target="_blank">https://voies-stephanoises.netlify.app/</a>) et du nom de l’association contributrice « La Ville à Vélo » (avec lien vers <a href="https://voies-stephanoises.netlify.app/" target="_blank">https://voies-stephanoises.netlify.app/</a>).
+Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « l'observatoire des aménagements cyclables » (avec lien vers <a href="https://voies-stephanoises.netlify.app/" Target="_blank">https://voies-stephanoises.netlify.app/</a>) et du nom de l’association contributrice « Ocivélo et O2 de l'oxygène » (avec lien vers <a href="https://voies-stephanoises.netlify.app/" target="_blank">https://voies-stephanoises.netlify.app/</a>).
