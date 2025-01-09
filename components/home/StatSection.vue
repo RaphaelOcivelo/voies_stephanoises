@@ -21,7 +21,7 @@
                   Lignes
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  12
+                  15
                 </dd>
               </div>
               <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
@@ -29,7 +29,7 @@
                   Distance
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  260km
+                  160 km
                 </dd>
               </div>
               <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
@@ -37,7 +37,7 @@
                   Budget
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  280M€
+                  31M€
                 </dd>
               </div>
             </dl>

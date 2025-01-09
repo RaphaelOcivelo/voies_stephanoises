@@ -4,7 +4,7 @@
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
+            <span class="sr-only">Observatoire des politiques cyclables</span>
             <img
               class="h-7 w-auto sm:h-8"
               src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
@@ -168,7 +168,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
+                <img class="h-8 w-auto" src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-logo-carte.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton

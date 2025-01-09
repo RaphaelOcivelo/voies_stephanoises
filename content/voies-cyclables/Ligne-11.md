@@ -4,7 +4,7 @@ line: 11
 from: Saint-Just-Saint-Rambert 
 to: Saint-Galmier
 description: L’axe vélo structurant PLAINE reliant Saint-Just-Saint-Rambert à Saint-Galmier, traversant trois collectivités, Loire Forez, Saint-Etienne Métropole et Forez EST.
-cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
+cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/hero.jpeg
 ---
 
 ## Description
