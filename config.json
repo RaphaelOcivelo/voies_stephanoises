@@ -59,6 +59,18 @@
     {
       "line": 12,
       "color": "#DBABB7"
+    },
+    {
+      "line": 13,
+      "color": "#A569BD"
+    },
+    {
+      "line": 14,
+      "color": "#1A03FA"
+    },
+    {
+      "line": 15,
+      "color": "#9DFA03"
     }
   ],
   "transports": [
