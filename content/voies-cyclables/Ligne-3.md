@@ -29,8 +29,8 @@ Cela devrait comprendre, l'aménagement du rond-point de L'Europe, l'aménagemen
 Les conflits entre les piétons et cyclistes sont importants sur l'aménagement du boulevard Fauriel du faite d'une mauvaise délimitation des usages. De même, le passage des accès routiers est mal réalisé, avec des aménagements de bateaux trop petits et une visibilité réduite.
 
 ## Archive des réalisations
-Avant 2000 Amégament cyclable de Fauriel
+Avant 2000 aménagement cyclable de Fauriel
 
 2000 aménagements des contre-allées de Jules Janin 
 
-2022/2024 Bouleveard Alexandre Fraissinette
+2022/2024 Boulevard Alexandre Fraissinette
