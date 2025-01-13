@@ -1,10 +1,10 @@
 import config from './config.json';
 
-const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.assoName}`;
+const TITLE = `Observatoire - Suivi des ${config.revName.plural} par ${config.assoName}`;
 const DESCRIPTION =
-  `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais`;
-const BASE_URL = 'https://cyclopolis.fr';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+  `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé en Sud Loire`;
+const BASE_URL = 'https://voies-stephanoises.netlify.app';
+const COVER_IMAGE_URL = 'https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-logo-carte.png';
 
 export default defineNuxtConfig({
   app: {
