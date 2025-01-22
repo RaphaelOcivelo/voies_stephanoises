@@ -6,7 +6,7 @@
           Les {{ getRevName() }}, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le nom donné au projet de réseau cyclable porté par les association du sud Loire.<br>
+          C'est le nom donné au projet de réseau cyclable porté par les associations du sud Loire.<br>
         </p>
       </div>
     </div>
