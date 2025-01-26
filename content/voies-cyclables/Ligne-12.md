@@ -4,7 +4,7 @@ line: 12
 from: Saint-Étienne
 to: St Victor Sur Loire
 description: Voie permettant d’aller de Saint-Étienne jusqu’à la station balnéaire de Saint-Victor sur Loire.
-cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
+cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/hero.jpeg
 ---
 ## Description
 Ce tracé de loisir hors plan Vélo, permet d'aller à St Victor sur Loire.
