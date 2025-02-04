@@ -8,6 +8,10 @@ cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/ma
 ---
 
 ## Description
+
+Cet axe cyclable relie le CHU Nord à la commune d'Andrézieux le long du Furan. 
+Il a vocation à connecter la Plaine en proposant une traversée de la Loire liant la Véloroute Véloire 71 à Saint-Etienne. 
+
 La voie verte du Furan est un axe stratégique dans le schéma cyclable du Sud du département de la Loire. Trois fonctions clés pour cette voie verte du Furan :
 
 
@@ -22,7 +26,16 @@ Le tracé de la voie verte suivrait la rivière Furan, en grande partie sur la p
 
 ## Etat actuel
 
+-La rue Juquel a été aménagée en 2023 à Andrézieux Bouthéon. 
+
+
 ## Projet
+
+Toujours à Andrézieux-Bouthéon, la rue Charles De Gaulle devrait être aménagée en 2025.
+
+La route métropolitaine entre la Fouillouse et le carrefour de Ratarieux devrait être aménagée avant fin 2026. C’est une solution pour les mobilités du quotidien en attendant un tracé sur l’ancienne de la ligne de chemin de fer de 1827, prévu à plus long terme. Cet autre tracé sera plus orienté sur le tourisme à vélo et les balades en famille. 
+
+ 
 Un groupement d’associations nommé ECLISSE commence à s’organiser pour préparer les festivités du bicentenaire de cette ligne historique. Elles désirent également que le bicentenaire soit l’occasion de bâtir une infrastructure durable autour ou sur son parcours. (une musée du train, des panneaux d’informations, des chemins de randonnée, et pourquoi par une voie verte…).
 [Pour obtenir plus d’informations sur la création et les objectifs de cette nouvelle association ECLISSE :](https://www.if-saint-etienne.fr/societe/200-ans-du-rail-en-europe-leclisse-veut-lancer-la-machine-a-saint-etienne)
 
@@ -55,6 +68,9 @@ Une voie verte de 2 km valorisant déjà cette ligne de chemin de fer de 1827, l
 ![Voie verte du furan : Double mur de soutènement](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L10-Voie-verte-Furan-Vestige-ferroviaire-de-1827.jpeg)
 
 ## Points d’améliorations
-
+Tout est à faire 
 
 ## Archive des réalisations
+2025 -  Rue Chales De Gaulle - Andrézieux-Bouthéon
+
+2023 - Rue Juquel - Andrézieux-Bouthéon
