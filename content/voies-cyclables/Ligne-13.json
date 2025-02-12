@@ -4,6 +4,46 @@
     {
       "type": "Feature",
        "properties": {
+        "id": "Centre_ville_de_Roche_la_Moliere",
+        "line": 13,
+        "name": "Centre-ville de Roche la Moliere",
+        "status": "unknown",
+        "type": "inconnu",
+        "link": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.322282787322706,
+            45.432503793281455
+          ],
+          [
+            4.321757122871361,
+            45.43174363844085
+          ],
+          [
+            4.321350204135854,
+            45.4314488674363
+          ],
+          [
+            4.320768266590477,
+            45.430960649573336
+          ],
+          [
+            4.320365723326319,
+            45.4301070258046
+          ],
+          [
+            4.320330723308615,
+            45.42967389808592
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+       "properties": {
         "id": "Centre_ville_de_Roche_la_Moliere-Bd_Louis_Braille",
         "line": 13,
         "name": "Centre-ville de Roche la Moliere -> Bd Louis Braille",
@@ -239,10 +279,10 @@
           45.39691769256902
         ],
         [
-          4.292016632637569,
-          45.393137643252686
+          4.29512798996123,
+          45.39572400050116
         ]
-      ],
+        ],
       "type": "LineString"
     }
   }    
