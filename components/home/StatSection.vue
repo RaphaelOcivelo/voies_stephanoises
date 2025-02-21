@@ -6,12 +6,9 @@
           Les {{ getRevName() }}, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-         Bienvenue sur l'Observatoire des Aménagements Cyclables!
-
-Cet espace a été conçu pour vous offrir une vue d'ensemble complète des infrastructures cyclables sur notre territoire. Que vous soyez cycliste régulier, amateur de balades ou professionnel, notre objectif est de vous fournir des informations précises, actualisées et facilement accessibles sur l’état des aménagements, leur sécurité et leur évolution.
-À travers cet observatoire, nous souhaitons faire un état des lieux des aménagements sur la pratie Sud Loire <br>
-
-Pour Saint etienne Métropole
+         Bienvenue sur l'Observatoire des Aménagements Cyclables! Cet espace a été conçu pour vous offrir une vue d'ensemble complète des infrastructures cyclables sur notre territoire. Que vous soyez cycliste régulier, amateur de balades ou professionnel, notre objectif est de vous fournir des informations précises, actualisées et facilement accessibles sur l’état des aménagements, leur sécurité et leur évolution.
+À travers cet observatoire, nous souhaitons faire un état des lieux des aménagements sur la pratie Sud Loire
+Pour Saint etienne Métropole C'est le nom donné au projet de réseau cyclable porté par les associations du sud Loire.<br>
         </p>
       </div>
     </div>
@@ -26,7 +23,7 @@ Pour Saint etienne Métropole
                   Lignes
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  12
+                  15
                 </dd>
               </div>
               <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
@@ -34,7 +31,7 @@ Pour Saint etienne Métropole
                   Distance
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  260km
+                  160 km
                 </dd>
               </div>
               <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
@@ -42,7 +39,7 @@ Pour Saint etienne Métropole
                   Budget
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  280M€
+                  31M€
                 </dd>
               </div>
             </dl>

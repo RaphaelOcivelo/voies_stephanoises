@@ -4,16 +4,16 @@
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
+            <span class="sr-only">Observatoire des politiques cyclables</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-logo-carte.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
+              src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-Logo-obs-des-amenagements.png"
+              alt="Logo observateur des aménagements cyclables"
             >
           </NuxtLink>
         </div>
@@ -91,6 +91,7 @@
           </Popover>
 
           <!-- Compteurs -->
+          <!-- 
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
               <span>Compteurs</span>
@@ -133,6 +134,7 @@
               </PopoverPanel>
             </transition>
           </Popover>
+        -->
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
@@ -166,7 +168,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
+                <img class="h-8 w-auto" src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-logo-carte.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
