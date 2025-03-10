@@ -8,7 +8,7 @@ cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/ma
 ---
 
 ## Description
-Cet axe débute du CHU Nord, jusqu’à Sorbiers le long de la rivière Furan et l’Onzon dans sa version 2019 du plan vélo Métropolitain. Pour cet axe, OCIVELO propose de prolonger l’aménagement jusqu’à Saint-Chamond via la vallée du Langonand, en partie sur l’ancienne ligne de chemin de fer du Tacot et en bordure de route. 
+Cet axe débute depuis le CHU Nord  jusqu’à Sorbiers le long de la rivière Furan et l’Onzon dans sa version 2019 du plan vélo Métropolitain. Pour cet axe, OCIVELO propose de prolonger l’aménagement jusqu’à Saint-Chamond via la vallée du Langonand, en partie sur l’ancienne ligne de chemin de fer du Tacot et en bordure de route. 
 
 Cet axe pourrait connecter le CHU Nord en passant par le Nord et le Sud, formant une véritable rocade cyclable pour rejoindre au plus près chaque service du CHU qui est le plus gros employeur de la Métropole. 
 Cette rocade cyclable serait en lien direct avec le terminus du tramway, et permettrait la liaison entre la station Vélivert offrant deux autres possibilités de mobilité aux habitants de l’Etrat.

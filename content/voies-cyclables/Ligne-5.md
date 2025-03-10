@@ -7,7 +7,7 @@ description: Cette voie reprend la boucle verte de Saint-Étienne
 cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L5-Piste-cyclable-Rue-Buffon.png
 ---
 ## Description
-Cette voie débute à place de la Terrasse et grimpe sur les collines de Bel air via le chemin des champs, pour rejoindre le golf en passant par la rue Saint Simon, poursuivant sur le Boulevard Rhin et Danube jusqu'à Montaud pour rejoindre l'arrière du musée de la mine rue Calixte Plotton.  Enfin, elle traverse le quartier de la Cotonne via une voie verte à proximité de la caserne des pompiers pour aboutir à la gare de Bellevue.
+Cette voie débute à la place de la Terrasse et grimpe sur les collines de Bel air via le chemin des champs, pour rejoindre le golf en passant par la rue Saint Simon, poursuivant sur le Bvd du Rhin et Danube jusqu'à Montaud et poursuivre vers l'arrière du musée de la mine rue C-Plotton.  Enfin, elle traverse le quartier de la Cotonne la boucle verte à proximité de la caserne des pompiers pour aboutir à la gare de Bellevue.
 
 
 ## L'état actuel

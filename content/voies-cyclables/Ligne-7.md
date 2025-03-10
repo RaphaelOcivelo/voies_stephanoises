@@ -13,7 +13,7 @@ Cet axe est primordial afin de créer une liaison entre la vallée du Gier (acc�
 ## Etat actuel
 ### Sortie Est de Saint-Étienne
 ![Piste cyclable entrée est de Saint-Etienne](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L7-axe-cyclable-entree-Est-de-Saint-Etienne.png)
-Cet axe cyclable de l’entrée EST de Saint-Étienne a une double vocation, à la fois cyclotouristique, et d'une grande utilité aux mobilités du quotidien pour accéder aux générateurs de déplacement du secteur (STEEL, IKEA, galerie commerciale de Monthieu, …). 
+Cet axe cyclable de l’entrée EST de Saint-Étienne a une double vocation, à la fois cyclotouristique, et d'une grande utilité pour  mobilités du quotidien pour accéder aux générateurs de déplacement du secteur (STEEL, IKEA, galerie commerciale de Monthieu, …). 
 700 m ont été aménagés par l’EPASE, sur la rue A.Haubtmann à proximité de la Gare de Chateaucreux. 
 
 Entre la ville de Saint-Étienne et Saint-Chamond, la voie est classée en « loisir ». Elle ne sera pas réalisée dans un futur proche.
@@ -37,7 +37,7 @@ La section la plus longue se situe dans le Rhône entre Givors et Saint-Romain-e
 ## Prochaines réalisations 
 Plusieurs programmes sont en cours de réflexion : 
 
--Côté Saint-Etienne, le projet chronobus M6+ apportera une voie bus /vélo sur la rue de la Libération en 2026, soit sur l’axe bus le plus fréquenté de la métropole. Les cyclistes et les chauffeurs de bus apprécieront ! 
+-Côté Saint-Etienne, le projet Chronobus M6+ apportera une voie bus /vélo sur la rue de la Libération en 2026, soit sur l’axe bus le plus fréquenté de la métropole. Les cyclistes et les chauffeurs de bus apprécieront ! 
 
 
 - Du côté du Pont de l’âne, une voie verte devrait voir le jour le long de la ligne de train à la sortie du tunnel ferroviaire, pour assurer la connexion à la rue de la Montat (programme EPASE).
@@ -46,7 +46,7 @@ Plusieurs programmes sont en cours de réflexion :
 
 -La traversée du centre ville de Saint-Chamond et de Rive-de-Gier.
 
--A La Grand-croix, l' extension du parc de la Platière sur 700 m est en cours de construction dans le cadre d’un programme d’aménagement de prévention des crues du Gier. Débouchant sur la rue du canal, elle accueillera également un aménagement cyclable en direction du siège social de l'entreprise Haulotte. 
+-A  La Grand-croix, l' extension du parc de la Platière sur 700 m est en cours de construction dans le cadre d’un programme d’aménagement de prévention des crues du Gier. Débouchant sur la rue du canal, elle accueillera également un aménagement cyclable en direction du siège social de l'entreprise Haulotte. 
 
 -A l’Horme, l’ancien barreau d’autoroute devrait être redimensionné pour laisser place à une simple route et un parc urbain avec une piste cyclable sur 3 km, permettant la liaison entre Saint-Chamond et le centre-ville de l’Horme et La Grand-Croix. 
 

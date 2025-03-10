@@ -15,7 +15,7 @@ cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/ma
 
 ## Etat actuel
 
--Une voie verte est existante entre la trémie de Michon et l’entrée de la commune de Saint-Genest-Lerpt. 
+-Une voie verte existe entre la trémie de Michon et l’entrée de la commune de Saint-Genest-Lerpt Rien n'existe pour la traversée de la ville. 
 
 -La section non prévue dans le plan vélo à été réalisée entre le Berland et le Bourg de Saint-Victor-sur-Loire en 2024. 
 
@@ -25,7 +25,7 @@ Les associations estiment que la priorité est de réaliser la liaison entre Sai
  
 
 ## Points d’améliorations
-La sortie de la piste cyclable de Michon doit être réalisée pour permettre la liaison avec la voie verte. Pour éviter les pentes et renforcer l’efficacité de la liaison, une voie routière de la 2x2 voies pourait être neutralisée dans ce but. 
+La sortie de la piste cyclable de Michon doit être réalisée pour permettre la liaison avec la voie verte. Pour éviter les pentes et renforcer l’efficacité de la liaison, une voie routière de la 2x2 voies pourrait être neutralisée dans ce but. 
 
 
 ## Archive des réalisations

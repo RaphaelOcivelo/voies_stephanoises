@@ -39,4 +39,3 @@ Cet axe est très attendu des cyclistes de Sorbiers et de la Talaudière, en rai
 ??? - Une voie verte le long de l’Onzon à partir de la piscine jusqu’à la rue de l’Entente
 
 ??? - Une partie entre le collège M.Seguin et le club de tennis.
-
