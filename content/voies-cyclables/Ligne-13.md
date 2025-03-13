@@ -7,10 +7,10 @@ description: .
 cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L13-Voie-verte-roche-la-moliere-firminy.png
 ---
 ## Description
-La voie verte de Roche la Molière reliant à terme Firminy et l’axe de la vallée de l’Ondaine font partie de l’axe couronne OUEST du plan vélo métropolitain. 
+La voie verte de Roche la Molière reliant à terme Firminy et l’axe de la vallée de l’Ondaine fait partie de l’axe couronne OUEST du plan vélo métropolitain. 
 Ce tracé à la particularité de passer dans 2 tunnels. 
 
-Actuellement la partie non réalisée est circulable avec un VTC et des lampes torches pour ceux qui aiment l’aventure... le passage est impraticable par temps de forte pluie. 
+Actuellement la partie non réalisée est circulable avec un VTT et des lampes torches pour ceux qui aiment l’aventure... Cette section des tunnels est impraticable par temps de forte pluie. Soyez prudents..!
 
 
 ## Etat actuel
@@ -24,7 +24,7 @@ Saint-Étienne Métropole étudie la suite en direction Firminy sur le tracé de
 Aucune date de réalisation n’est connue (fin 2024).
 
 ## Points d’améliorations
-- Une meilleure co-visibilité aux intersections avec les routes, notamment sur le Boulevard des Mineurs
+- Une meilleure co-visibilité aux intersections avec les routes, notamment sur le Bvd des Mineurs
 
 - Réaliser une liaison avec le centre-ville de Roche la Molière via la rue S.Carnot
 
@@ -40,4 +40,3 @@ Aucune date de réalisation n’est connue (fin 2024).
 
 
 2023 -  Voie verte partie Sud de Roche-la-Moliere - 2,2 km
-

@@ -7,7 +7,7 @@ description: Axe vélo de la vallée de l’ONDAINE – Véloroute V72 – Voie 
 cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L14-voie-verte-vallee-de-l-Ondaine.png
 ---
 ## Description
-Tracer de la voie des confluences permetant la connexions avec la voie verte en direction de Roche la Molière, en direction de Dunières et le site UNESCO du Corbusier.
+Tracé de la voie des confluences permettant à terme la connexion avec la voie verte en direction de Roche la Molière et en direction de Dunières et le site UNESCO du Corbusier de Firminy.
 
 Liaison avec les bords de Loire via la « Noirie »
 
@@ -37,7 +37,7 @@ A l’horizon 2026, il est prévu de prolonger l’aménagement cyclable en dire
 
 2021 - voie verte à la Ricamarie 
 
-2021 – CVCB ( chaussée à voie cntrale banalisée) rue Edouard Michot - 0,8 km
+2021 – CVCB ( Chaussée à Voie Centrale Banalisée) rue E.Michot - 0,8 km
 
 2020 - Voie verte au Pertuiset - 0,3 km 
 
