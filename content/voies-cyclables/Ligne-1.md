@@ -1,5 +1,5 @@
 ---
-name: Voie Stéphanoise 1
+name: La trame cyclable stéphanoise 1
 line: 1
 from: Hôpital Nord 
 to: Solaure
