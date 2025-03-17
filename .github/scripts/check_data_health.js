@@ -32,7 +32,7 @@ function getAllLinks() {
 
   fs.readdirSync('content/voies-cyclables').forEach(file => {
     if (file.endsWith('.md')) {
-      const voieStéphanoiseNumber = file.match(/\d+/g);
+      const voieStephanoiseNumber = file.match(/\d+/g);
 
       const filePath = path.join('content/voies-cyclables', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
@@ -53,7 +53,7 @@ function getAllLinks() {
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        links.push(`/${config.slug}-${voieStéphanoiseNumber}#${link}`);
+        links.push(`/${config.slug}-${voieStephanoiseNumber}#${link}`);
       }
     }
   });

@@ -70,9 +70,9 @@ function getTrafic(voie: Geojson): string {
   return trafic || 'Inconnu';
 }
 
-const description = `Tableau de bord de suivi des ${config.revName.plural} en temps réel.`;
+const description = `Tableau de bord de suivi de ${config.revName.plural} en temps réel.`;
 useHead({
-  title: `Tableau de bord de suivi des ${config.revName.plural}`,
+  title: `Tableau de bord de suivi de ${config.revName.plural}`,
   meta: [
     { hid: 'description', name: 'description', content: description },
     { hid: 'og:description', property: 'og:description', content: description },
