@@ -1,11 +1,11 @@
 {
   "revName": {
-    "plural": "Voies Stephanoises",
-    "singular": "Voie Stephanoise"
+    "plural": "la trame cyclable stephanoise",
+    "singular": "la trame cyclable stephanoise"
   },
   "assoName": "Ocivélo et O2 de l'Oxygene",
   "assoLink": "https://ocivelo.fr",
-  "slug": "voies-stephanoises",
+  "slug": "La-trame-cyclable-stephanoise",
   "center": [
     4.387670,
     45.439278

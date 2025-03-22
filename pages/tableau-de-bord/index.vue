@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-4xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
     <h1 class="text-center text-3xl text-lvv-blue-600 font-bold mb-8">
-      Tableau de bord de suivi des {{ config.revName.plural }}
+      Tableau de bord de suivi de {{ config.revName.plural }}
     </h1>
     <div v-if="!voies">
       Chargement ...
@@ -70,9 +70,9 @@ function getTrafic(voie: Geojson): string {
   return trafic || 'Inconnu';
 }
 
-const description = `Tableau de bord de suivi des ${config.revName.plural} en temps réel.`;
+const description = `Tableau de bord de suivi de ${config.revName.plural} en temps réel.`;
 useHead({
-  title: `Tableau de bord de suivi des ${config.revName.plural}`,
+  title: `Tableau de bord de suivi de ${config.revName.plural}`,
   meta: [
     { hid: 'description', name: 'description', content: description },
     { hid: 'og:description', property: 'og:description', content: description },

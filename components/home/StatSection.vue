@@ -6,7 +6,7 @@
           Les {{ getRevName() }}, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le nom donné au projet de réseau cyclable porté par les associations du sud Loire.<br>
+          C'est le nom donné au projet qui a pour objectif de suivre le développement des infrastructures dédiées au vélo sur la métropole de Saint-Étienne et ses environs. Ce site permet de visualiser l’état des lieux des aménagements existants, d’analyser les linéaires réalisés et de mesurer l’évolution du réseau cyclable jusqu’à 2026 et 2030, dans le cadre du plan vélo. Grâce à cet outil, chaque citoyens peuvent accéder à des données actualisées, cartographiées et détaillées sur les pistes cyclables, bandes cyclables, voies vertes et autres infrastructures en faveur de la mobilité douce.<br>
         </p>
       </div>
     </div>

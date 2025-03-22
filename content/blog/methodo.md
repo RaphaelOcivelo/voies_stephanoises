@@ -8,7 +8,7 @@ imageUrl: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads
 Pourquoi ma rue est considérée comme « prévue » alors qu’il y a déjà une piste ?  
 La piste est au Nord sur votre carte mais la concertation l'a annoncé au Sud !  
 À quoi dois-je m’attendre sur les tronçons marqués « reporté après 2026 » ?  
-Où est la Voie stéphanoise 13 et les autres tronçons annoncés pour 2030 ?*
+Où est la trame cyclable stéphanoise 13 et les autres tronçons annoncés pour 2030 ?*
 
 On vous explique tout !
 
