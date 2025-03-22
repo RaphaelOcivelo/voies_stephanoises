@@ -1,10 +1,12 @@
 ---
 title: Tutoriel - Dupliquer Cyclopolis dans sa ville
-description: Guide à destination des associations qui souhaiteraient réutiliser Cyclopolis pour suivre les infrastructures cyclables de leur ville.
+description: Guide à destination des associations qui souhaiteraient réutiliser le site pour suivre les infrastructures cyclables de leur ville.
 imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
 ---
 
 ## Cyclopolis est (et restera) Open Source
+
+Le site la trame cyclable stéphanoise est tirée du site Cyclopolis de la Ville à Vélo. Nous remercions vivement la Ville à Vélo pour la réalisation du site et du partage aux autres associations.
 
 Depuis le tout début de son histoire, en septembre 2022, Cyclopolis est un projet Open Source. Cela signifie que tout le code de la plateforme est public et réutilisable par tous et toutes.
 
